@@ -10,7 +10,7 @@ L’interfaccia è stata sviluppata con Tailwind CSS.
 📄 Visualizzazione dettagli completi del gioco,
 ▶️ Ricerca automatica trailer tramite YouTube API v3,
 ⚡ Debounce sulla ricerca per evitare chiamate API inutili,
-🎨 UI responsive realizzata con Tailwind CSS,
+🎨 UI responsive realizzata con Tailwind CSS.
 
 🛠️ Tecnologie Utilizzate:
 Vue 3 (Composition API),
