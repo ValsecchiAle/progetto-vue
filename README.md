@@ -5,16 +5,16 @@ Un’applicazione realizzata con Vue.js che permette di esplorare videogiochi tr
 L’interfaccia è stata sviluppata con Tailwind CSS.
 
 🚀 Funzionalità:
-🔎 Ricerca giochi in tempo reale
-🎮 Lista giochi popolari tramite RAWG API
-📄 Visualizzazione dettagli completi del gioco
-▶️ Ricerca automatica trailer tramite YouTube API v3
-⚡ Debounce sulla ricerca per evitare chiamate API inutili
-🎨 UI responsive realizzata con Tailwind CSS
+🔎 Ricerca giochi in tempo reale,
+🎮 Lista giochi popolari tramite RAWG API,
+📄 Visualizzazione dettagli completi del gioco,
+▶️ Ricerca automatica trailer tramite YouTube API v3,
+⚡ Debounce sulla ricerca per evitare chiamate API inutili,
+🎨 UI responsive realizzata con Tailwind CSS,
 
 🛠️ Tecnologie Utilizzate:
-Vue 3 (Composition API)
-Tailwind CSS
-RAWG API
-YouTube Data API v3
+Vue 3 (Composition API),
+Tailwind CSS,
+RAWG API,
+YouTube Data API v3,
 JavaScript ES6+
