@@ -17,4 +17,4 @@ Vue 3 (Composition API),
 Tailwind CSS,
 RAWG API,
 YouTube Data API v3,
-JavaScript ES6+
+JavaScript ES6+.
